@@ -29,3 +29,6 @@ proguard/
 .gradle/
 # OS X
 .DS_Store
+
+# Build artifacts
+build/
